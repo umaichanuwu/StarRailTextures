@@ -55,16 +55,17 @@ Some notes :
 
 | path | content |
 | - | - |
-| `assets\unmapped\Characters` | List of characers eidolons, faces, and linked textures |
-| `assets\unmapped\Avatar` | Characters models textures |
-| `assets\asbres\ui\atlas\atlasroot\minimap` | Minimap |
-| `assets\unmapped\Enviro` | Skyboxes and noise maps for sky |
-| `assets\unmapped\Gacha\GachaImg` | Gacha banners |
-| `assets\unmapped\Chap00-03` | Game maps, very likely that 00 is space station, 01 jarilo vi, 02 xianzhou luofu and 03 maybe astral express ? |
-| `assets\unmapped\N\NPC` | NPC hair + body textures |
-| `assets\unmapped\U\UI-UI3D` | UI textures, UI is for the main interface and UI3D for 3d interfaces like the map |
-| `assets\unmapped\Chap02\Eff\X301\SeaWater` | 8k water textures |
-| `assets\unmapped\Other` | All textures that couldn't be sorted, go check here if you can't find something. It includes stuff like items icons, emojis, ui elements, events textures and many more |
+| [`assets/unmapped/Characters`](https://github.com/umaichanuwu/StarRailTextures/tree/main/assets/unmapped/Characters) | List of characers eidolons, faces, and linked textures |
+| [`assets/unmapped/Avatar`](https://github.com/umaichanuwu/StarRailTextures/tree/main/assets/unmapped/Avatar) | Characters models textures |
+| [`assets/asbres/ui/atlas/atlasroot/minimap`](https://github.com/umaichanuwu/StarRailTextures/tree/main/assets/asbres/ui/atlas/atlasroot/minimap) | Minimap |
+| [`assets/unmapped/C/CSProp/Gacha/Common/Ticket01`](https://github.com/umaichanuwu/StarRailTextures/tree/main/assets/unmapped/C/CSProp/Gacha/Common/Ticket01) | Gacha tickets |
+| [`assets/unmapped/Enviro`](https://github.com/umaichanuwu/StarRailTextures/tree/main/assets/unmapped/Enviro) | Skyboxes and noise maps for sky |
+| [`assets/unmapped/Gacha/GachaImg`](https://github.com/umaichanuwu/StarRailTextures/tree/main/assets/unmapped/Gacha/GachaImg) | Gacha banners |
+| [`assets/unmapped/Chap00 - 01 - 02 - 03`](https://github.com/umaichanuwu/StarRailTextures/tree/main/assets/unmapped) | Game maps, very likely that 00 is space station, 01 jarilo vi, 02 xianzhou luofu and 03 maybe astral express ? |
+| [`assets/unmapped/N/NPC`](https://github.com/umaichanuwu/StarRailTextures/tree/main/assets/unmapped/N/NPC) | NPC hair + body textures |
+| [`assets/unmapped/U/UI - UI3D`](https://github.com/umaichanuwu/StarRailTextures/tree/main/assets/unmapped/U/) | UI textures, UI is for the main interface and UI3D for 3d interfaces like the map |
+| [`assets/unmapped/Chap02/Eff/X301/SeaWater`](https://github.com/umaichanuwu/StarRailTextures/tree/main/assets/unmapped/Chap02/Eff/X301/SeaWater) | 8k water textures |
+| [`assets/unmapped/Other`](https://github.com/umaichanuwu/StarRailTextures/tree/main/assets/unmapped/Other) | All textures that couldn't be sorted, go check here if you can't find something. It includes stuff like items icons, emojis, ui elements, events textures and many more |
 
 </details>
 
