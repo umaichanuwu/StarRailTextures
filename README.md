@@ -60,7 +60,7 @@ Some notes :
   <summary>Expand list</summary>
 
 | path | content |
-| - | - |
+| --- | --- |
 | [`assets/unmapped/Characters`](https://github.com/umaichanuwu/StarRailTextures/tree/main/assets/unmapped/Characters) | List of characers eidolons, faces, and linked textures |
 | [`assets/unmapped/Avatar`](https://github.com/umaichanuwu/StarRailTextures/tree/main/assets/unmapped/Avatar) | Characters models textures |
 | [`assets/asbres/ui/atlas/atlasroot/minimap`](https://github.com/umaichanuwu/StarRailTextures/tree/main/assets/asbres/ui/atlas/atlasroot/minimap) | Minimap |
@@ -81,5 +81,5 @@ Some notes :
 
 ---
 
-# [Download all](https://github.com/umaichanuwu/StarRailTextures/archive/refs/heads/master.zip) (~10Gb)
+# [Download all](https://github.com/umaichanuwu/StarRailTextures/archive/refs/heads/master.zip) (~14Gb uncompressed)
 # [Browse files](https://github.com/umaichanuwu/StarRailTextures/tree/master/assets) (github display limit is 1k files, you won't see everything)
