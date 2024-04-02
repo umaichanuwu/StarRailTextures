@@ -1,11 +1,19 @@
 # StarRailTextures
 ## All extracted textures from honkai star rail, provided by [Escartem](https://github.com/Escartem)
 
-Some notes :
-* textures are extremly messy, I started working on a mapping, you can find the already sorted ones in `assets/asbres`, the others one are also sorted but not based of the game files paths
-* Numbers map characters and not their names directly, you can find the reference table here
+---
+---
+
+### ℹ️ Starting at version 2.1, the mapping method was changed which made the coverage go from 7% to 98%. This means most textures are now in the `asbres` folder and organized as the game intended them to be. The few still unmapped files are in their respective folder. 
+
+### In addition to that, you can download [right here](https://s3.escartem.eu.org/browser/maps/hsr/2.1-full.json) the mapping file which will help you greatly into searching something specific. It's a JSON file in the form `{"filename": "filepath"}`. 
+
+---
+---
+
+
 <details>
-  <summary>Map list</summary>
+  <summary>Old character reference table (won't be updated anymore)</summary>
   
 | number | name                |
 |--------|---------------------|
@@ -54,10 +62,8 @@ Some notes :
 
 </details>
 
-* Here are a few paths for interesting stuff (this list is only stuff i've found and thought interesting to add here, if you want something specific you'll have to search trough yourself)
-
 <details>
-  <summary>Expand list</summary>
+  <summary>Some paths (won't work for 2.1+)</summary>
 
 | path | content |
 | --- | --- |
@@ -81,5 +87,5 @@ Some notes :
 
 ---
 
-# [Download all](https://github.com/umaichanuwu/StarRailTextures/archive/refs/heads/master.zip) (~14Gb uncompressed)
+# [Download all](https://github.com/umaichanuwu/StarRailTextures/archive/refs/heads/master.zip) (~20Gb uncompressed)
 # [Browse files](https://github.com/umaichanuwu/StarRailTextures/tree/master/assets) (github display limit is 1k files, you won't see everything)
