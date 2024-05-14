@@ -87,5 +87,5 @@
 
 ---
 
-# [Download all](https://github.com/umaichanuwu/StarRailTextures/archive/refs/heads/master.zip) (~20Gb uncompressed)
-# [Browse files](https://github.com/umaichanuwu/StarRailTextures/tree/master/assets) (github display limit is 1k files, you won't see everything)
+# [Download all](https://github.com/umaichanuwu/StarRailTextures/archive/8cf53fc421fecdc28c51102d32f16e54cc1cef47.zip) (~20Gb uncompressed)
+# [Browse files](https://github.com/umaichanuwu/StarRailTextures/tree/8cf53fc421fecdc28c51102d32f16e54cc1cef47/assets) (github display limit is 1k files, you won't see everything)
