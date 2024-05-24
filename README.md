@@ -6,7 +6,7 @@
 
 ### ℹ️ Starting at version 2.1, the mapping method was changed which made the coverage go from 7% to 98%. This means most textures are now in the `asbres` folder and organized as the game intended them to be. The few still unmapped files are in their respective folder. 
 
-### In addition to that, you can download [right here](https://s3.escartem.eu.org/browser/maps/hsr/2.1-full.json) the mapping file which will help you greatly into searching something specific. It's a JSON file in the form `{"filename": "filepath"}`. 
+### In addition to that, you can download [right here](https://s3.escartem.eu.org/browser/maps/hsr/sr22f.json) the mapping file which will help you greatly into searching something specific. It's a JSON file in the form `{"filename": "filepath"}`. 
 
 ---
 ---
