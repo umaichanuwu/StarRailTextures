@@ -6,7 +6,7 @@
 
 ### ℹ️ Starting at version 2.1, the mapping method was changed which made the coverage go from 7% to 98%. This means most textures are now in the `asbres` folder and organized as the game intended them to be. The few still unmapped files are in their respective folder. 
 
-### In addition to that, you can download [right here](https://s3.escartem.eu.org/browser/maps/hsr/sr22f.json) the mapping file which will help you greatly into searching something specific. It's a JSON file in the form `{"filename": "filepath"}`. 
+### In addition to that, you can download [right here (only patch files)](https://s3.escartem.eu.org/browser/maps/hsr/sr24p.json) the mapping file which will help you greatly into searching something specific. It's a JSON file in the form `{"filename": "filepath"}`. 
 
 ---
 ---
@@ -87,5 +87,5 @@
 
 ---
 
-# [Download all](https://github.com/umaichanuwu/StarRailTextures/archive/25bab8efe1007f82114ce8262198f8c74825b798.zip) (~21Gb uncompressed)
-# [Browse files](https://github.com/umaichanuwu/StarRailTextures/tree/25bab8efe1007f82114ce8262198f8c74825b798/assets) (github display limit is 1k files, you won't see everything)
+# [Download all](https://github.com/umaichanuwu/StarRailTextures/archive/810c0e1efe073aff05eb84eb049cbb88f16429cc.zip)
+# [Browse files](https://github.com/umaichanuwu/StarRailTextures/tree/810c0e1efe073aff05eb84eb049cbb88f16429cc/assets) (github display limit is 1k files, you won't see everything)
