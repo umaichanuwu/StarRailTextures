@@ -1,12 +1,12 @@
 # StarRailTextures
 ## All extracted textures from honkai star rail, provided by [Escartem](https://github.com/Escartem)
-
+## You can browse this more easily [right here](https://assets.escartem.eu.org)
 ---
 ---
 
 ### ℹ️ Starting at version 2.1, the mapping method was changed which made the coverage go from 7% to 98%. This means most textures are now in the `asbres` folder and organized as the game intended them to be. The few still unmapped files are in their respective folder. 
 
-### In addition to that, you can download [right here (only patch files)](https://s3.escartem.eu.org/browser/maps/hsr/sr24p.json) the mapping file which will help you greatly into searching something specific. It's a JSON file in the form `{"filename": "filepath"}`. 
+### In addition to that, you can download [on the anime links page](https://github.com/umaichanuwu/AnimeLinks/blob/main/README.md) the mapping file which will help you greatly into searching something specific. It's a JSON file in the form `{"filename": "filepath"}`. 
 
 ---
 ---
@@ -83,9 +83,4 @@
 
 * if you have any question you can either join escartem's [discord](https://discord.gg/fzRdtVh) or send me a mail `noreply.service.main.fr@gmail.com`
 
-* also check out [genshin extracted stuff](https://github.com/umaichanuwu/GenshinLinks/blob/main/README.md)
-
----
-
-# [Download all](https://github.com/umaichanuwu/StarRailTextures/archive/810c0e1efe073aff05eb84eb049cbb88f16429cc.zip)
-# [Browse files](https://github.com/umaichanuwu/StarRailTextures/tree/810c0e1efe073aff05eb84eb049cbb88f16429cc/assets) (github display limit is 1k files, you won't see everything)
+* also check out [anime extracted stuff](https://github.com/umaichanuwu/AnimeLinks/blob/main/README.md)
